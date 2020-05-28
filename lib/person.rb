@@ -1,7 +1,7 @@
 class Person
 end
 
-ada = 
+ada = Person.new
 # adele_goldberg = Person.new
 # alan_kay = Person.new
 
@@ -10,6 +10,8 @@ def talk()
 end
 
 def walk()
-  puts "The Person is walking"
+  puts "#{The Person} is walking"
 end
 
+ada.talk
+ada.walk
