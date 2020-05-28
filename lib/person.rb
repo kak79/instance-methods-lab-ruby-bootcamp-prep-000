@@ -16,4 +16,3 @@ def walk()
 end
 
 
-ada.walk
