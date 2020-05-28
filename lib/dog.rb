@@ -13,7 +13,7 @@ end
 fido.bark
 
 def sit ()
-  puts "The #{Dog} is sitting"
+  puts "The Dog} is sitting"
 end
 
 fido.sit
