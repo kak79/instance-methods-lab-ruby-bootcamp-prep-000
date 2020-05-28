@@ -13,4 +13,4 @@ def walk()
   puts "#{The Person} is walking"
 end
 
-
+ada = Person.new
