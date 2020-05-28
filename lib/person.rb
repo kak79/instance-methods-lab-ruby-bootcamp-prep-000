@@ -1,8 +1,9 @@
 class Person
 end
 
-adele_goldberg = Person.new
-alan_kay = Person.new
+ada = 
+# adele_goldberg = Person.new
+# alan_kay = Person.new
 
 def talk()
   puts "Hello World!"
