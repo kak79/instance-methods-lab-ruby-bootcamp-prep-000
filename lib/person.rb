@@ -11,7 +11,7 @@ def talk()
 end
 
 def walk()
-  
+  ada.walk
   puts "#{The Person} is walking"
 end
 
