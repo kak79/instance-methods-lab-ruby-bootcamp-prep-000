@@ -7,7 +7,7 @@ fido = Dog.new
 
 
 def bark()
-  
+  fido.bark
   puts "Woof!"
   
 end
