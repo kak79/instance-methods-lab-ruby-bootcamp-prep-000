@@ -2,8 +2,8 @@ class Dog
 end
 
 fido = Dog.new
-snoopy = Dog.new 
-lassie = Dog.new 
+#snoopy = Dog.new 
+#lassie = Dog.new 
 
 
 def bark()
@@ -13,5 +13,7 @@ end
 fido.bark
 
 def sit ()
-  puts "The Dog is sitting"
+  puts "The #{Dog} is sitting"
 end
+
+fido.sit
