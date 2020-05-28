@@ -1,7 +1,7 @@
 class Person
 end
 
-ada = Person.new
+
 
 def talk()
   ada.talk
