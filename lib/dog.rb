@@ -9,11 +9,10 @@ fido = Dog.new
 def bark()
   fido.bark
   puts "Woof!"
-  
 end
 
 def sit ()
-  
+  fido.sit
   puts "#{The Dog} is sitting"
 end
 
